@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: #EDF2F2;
+}
+
+* {
+    color: #129296;
+}
+
+.light-text{
+    color: #6D9CA0;
+}
+
+button *{
+    color: white;
+}
+button svg{
+    vertical-align: bottom;
+}
+
+.btn-primary {
+    background: #129296 !important;
+    outline-color: #129296 !important;
+    border-color: #129296 !important;
+}
+
+.mb-10 {
+    margin-bottom: 10rem !important;
+}
+
+.mt-15 {
+    margin-top: 15rem !important;
+}
